@@ -22,9 +22,10 @@ https://ant.design/
 - linting
 - testing
 - npm audit 
-- deploy to s3 (left: update github setting)
+- deploy to s3 (setup aws and git settings)
 - cloudfront
 
-resourcess: 
+resources: 
 - https://dholmes.co.uk/blog/github-actions-frontend-code-quality/
 - https://medium.com/cloud-native-daily/mastering-ci-cd-deploying-a-react-js-app-to-aws-s3-with-github-actions-and-hosting-it-b1ce82360331
+- https://dev.to/aws-builders/setup-cloudfront-amazon-s3-to-deliver-objects-on-the-web-apps-securely-efficiently-2gnk
