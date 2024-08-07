@@ -14,9 +14,9 @@ https://ant.design/
 
 # GIT BRANCHING
 ## Github Flow/ Scaled Trunk Based Development
-https://docs.github.com/en/get-started/using-github/github-flow (tbc for step 5)
-https://trunkbaseddevelopment.com/ 
-https://medium.com/@sreekanth.thummala/choosing-the-right-git-branching-strategy-a-comparative-analysis-f5e635443423
+- https://docs.github.com/en/get-started/using-github/github-flow (tbc for step 5)
+- https://trunkbaseddevelopment.com/ 
+- https://medium.com/@sreekanth.thummala/choosing-the-right-git-branching-strategy-a-comparative-analysis-f5e635443423
 
 # CI/CD
 - linting
@@ -25,4 +25,6 @@ https://medium.com/@sreekanth.thummala/choosing-the-right-git-branching-strategy
 - deploy to s3 (left: update github setting)
 - cloudfront
 
-resources: https://dholmes.co.uk/blog/github-actions-frontend-code-quality/
+resourcess: 
+- https://dholmes.co.uk/blog/github-actions-frontend-code-quality/
+- https://medium.com/cloud-native-daily/mastering-ci-cd-deploying-a-react-js-app-to-aws-s3-with-github-actions-and-hosting-it-b1ce82360331
