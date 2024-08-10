@@ -1,10 +1,4 @@
-import React from "react";
-
-const HomePage = () => {
-  return (
-    <>
-      <div>WELCOME TO IRENTSTUFF</div>
-    </>
-  );
-};
-export default HomePage;
+function HomePage() {
+  return <div>WELCOME TO IRENTSTUFF</div>
+}
+export default HomePage
